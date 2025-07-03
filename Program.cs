@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello Kyryl");
+﻿Console.WriteLine("Hello Khrysta");
