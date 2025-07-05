@@ -1,4 +1,8 @@
 index.txt
 .git/
+README.cs
+.Test.csproj
+.Test.sln
 bin/
 obj/
+forum/
